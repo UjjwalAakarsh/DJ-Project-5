@@ -1,0 +1,18 @@
+.heading{
+    width:80% ;
+    margin: 0px;
+    font-size: 50px;
+}
+#note{
+    font-size:20px ;
+    color: red;
+}
+body{
+    background: url("https://i.ytimg.com/vi/7yjuY6O8SSk/maxresdefault.jpg");
+    background-size: cover;
+}
+canvas{
+border: 5px solid aqua;
+border-radius: 50%;
+margin-top: 75px;
+}
